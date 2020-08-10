@@ -3,5 +3,6 @@ This repository contains codes, data, and paper of my project Exploring Major Ev
 
 ## Final Visualizations
 View the [pyLDAvis visualization](https://htmlpreview.github.io/?https://github.com/yianzz991104/Major-Events-Topic-Modeling-via-NMF/blob/master/tm_vis.html)
-Other visualizations:
+
+Other visualizations:![bar_plot](https://user-images.githubusercontent.com/50033747/89802909-20808d00-db00-11ea-99e9-8377cdb12ecf.png)
 
