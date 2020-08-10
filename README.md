@@ -1,5 +1,5 @@
 # Major Events Topic Modeling via NMF
-This repository contains codes, data, and paper of my project Exploring Major Events and Event Connections between 2019 – 2020 Using Topic Modeling via Non-negative Matrix Factorization.
+This repository contains [codes](https://github.com/yianzz991104/Major-Events-Topic-Modeling-via-NMF/tree/master/code), [data](https://github.com/yianzz991104/Major-Events-Topic-Modeling-via-NMF/tree/master/data), and [paper](https://github.com/yianzz991104/Major-Events-Topic-Modeling-via-NMF/blob/master/CHIN303%20Final%20Yian%20Zhou.pdf) of my project Exploring Major Events and Event Connections between 2019 – 2020 Using Topic Modeling via Non-negative Matrix Factorization.
 
 ## Final Visualizations
 View the [pyLDAvis visualization](https://htmlpreview.github.io/?https://github.com/yianzz991104/Major-Events-Topic-Modeling-via-NMF/blob/master/tm_vis.html)
