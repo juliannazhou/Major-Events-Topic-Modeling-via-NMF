@@ -6,3 +6,4 @@ View the [pyLDAvis visualization](https://htmlpreview.github.io/?https://github.
 
 Other visualizations:![bar_plot](https://user-images.githubusercontent.com/50033747/89802909-20808d00-db00-11ea-99e9-8377cdb12ecf.png)
 
+![area_plot](https://user-images.githubusercontent.com/50033747/89803185-7ead7000-db00-11ea-991b-26e3b9f394e4.png)
